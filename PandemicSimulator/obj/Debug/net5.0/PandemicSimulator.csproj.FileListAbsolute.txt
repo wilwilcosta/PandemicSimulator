@@ -1,0 +1,16 @@
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\bin\Debug\net5.0\PandemicSimulator.exe
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\bin\Debug\net5.0\PandemicSimulator.deps.json
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\bin\Debug\net5.0\PandemicSimulator.runtimeconfig.json
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\bin\Debug\net5.0\PandemicSimulator.runtimeconfig.dev.json
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\bin\Debug\net5.0\PandemicSimulator.dll
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\bin\Debug\net5.0\ref\PandemicSimulator.dll
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\bin\Debug\net5.0\PandemicSimulator.pdb
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\obj\Debug\net5.0\PandemicSimulator.csprojAssemblyReference.cache
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\obj\Debug\net5.0\PandemicSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\obj\Debug\net5.0\PandemicSimulator.AssemblyInfoInputs.cache
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\obj\Debug\net5.0\PandemicSimulator.AssemblyInfo.cs
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\obj\Debug\net5.0\PandemicSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\obj\Debug\net5.0\PandemicSimulator.dll
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\obj\Debug\net5.0\ref\PandemicSimulator.dll
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\obj\Debug\net5.0\PandemicSimulator.pdb
+C:\Users\Wilson\Desktop\Projetos\PandemicSimulator\obj\Debug\net5.0\PandemicSimulator.genruntimeconfig.cache
